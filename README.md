@@ -8,4 +8,4 @@
 
 ![FrancescoMarelli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrancescoMarelli&theme=tokyonight&hide_border=true)
 
-![FrancescoMarelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMarelli&theme=react&show_icons=true&hide_border=true&layout=compact)
+![FrancescoMarelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMarelli&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
