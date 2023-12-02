@@ -4,6 +4,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FrancescoMarelli&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FrancescoMarelli&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMarelli&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![FrancescoMarelli's Stats](https://github-readme-stats.vercel.app/api?username=FrancescoMarelli&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![FrancescoMarelli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrancescoMarelli&theme=tokyonight&hide_border=true)
+
+![FrancescoMarelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMarelli&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
