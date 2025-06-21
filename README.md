@@ -8,3 +8,11 @@
 ![FrancescoMarelli's Streak]([https://github-readme-streak-stats.herokuapp.com/?user=FrancescoMarelli&theme=vue-dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=FrancescoMarelli&theme=vue-dark&hide_border=true))
 
 ![FrancescoMarelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMarelli&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+<div align="center">
+  <div align="center">
+    <br><p><b>Visitor Counter</b></p>  
+    <p><img src="https://profile-counter.glitch.me/{JhonSantt4na}/count.svg" /></p> 
+  </div>
+</div>
