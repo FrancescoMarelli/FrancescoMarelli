@@ -13,6 +13,6 @@
 <div align="center">
   <div align="center">
     <br><p><b>Visitor Counter</b></p>  
-    <p><img src="https://profile-counter.glitch.me/{JhonSantt4na}/count.svg" /></p> 
+    <p><img src="https://profile-counter.glitch.me/{FrancescoMarelli}/count.svg" /></p> 
   </div>
 </div>
