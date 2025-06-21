@@ -5,9 +5,10 @@
 # 📊 GitHub Stats:
 ![FrancescoMarelli's Stats](https://github-readme-stats.vercel.app/api?username=FrancescoMarelli&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![FrancescoMarelli's Streak]([https://github-readme-streak-stats.herokuapp.com/?user=FrancescoMarelli&theme=vue-dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=FrancescoMarelli&theme=vue-dark&hide_border=true))
-
 ![FrancescoMarelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMarelli&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+# 📊 GitHub Contribution Streak:
 
 <div align="center">
   <picture>
