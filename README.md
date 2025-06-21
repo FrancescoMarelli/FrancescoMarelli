@@ -9,6 +9,13 @@
 
 ![FrancescoMarelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMarelli&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrancescoMarelli/FrancescoMarelli/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FrancescoMarelli/FrancescoMarelli/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FrancescoMarelli/FrancescoMarelli/output/github-contribution-grid-snake.svg" style="display: inline-block;">
+  </picture>
+</div>
 
 <div align="center">
   <div align="center">
