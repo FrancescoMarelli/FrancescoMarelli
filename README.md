@@ -17,10 +17,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FrancescoMarelli/FrancescoMarelli/output/github-contribution-grid-snake.svg" style="display: inline-block;">
   </picture>
 </div>
-
-<div align="center">
-  <div align="center">
-    <br><p><b>Visitor Counter</b></p>  
-    <p><img src="https://profile-counter.glitch.me/{FrancescoMarelli}/count.svg" /></p> 
-  </div>
-</div>
