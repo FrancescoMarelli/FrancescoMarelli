@@ -14,6 +14,8 @@
 
 ![FrancescoMarelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMarelli&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FrancescoMarelli)](https://github.com/FrancescoMarelli/github-readme-stats)
+
 ## 📊 GitHub Contribution Streak:
 
 <div align="center">
