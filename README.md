@@ -11,7 +11,6 @@
  
 ## 📊 GitHub Stats:
 ![FrancescoMarelli's Stats](https://github-readme-stats.vercel.app/api?username=FrancescoMarelli&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![FrancescoMarelli's Strak Stats](https://github-readme-streak-stats.vercel.app/api?username=FrancescoMarelli&theme=blueberry&hide_border=false)<br/>
 ![FrancescoMarelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoMarelli&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
